@@ -1,1 +1,24 @@
 # Talk-C2-4ROOT
+
+## Atividades sob Controle
+
+### Como manter a observabilidade em um panorama macro das ações durante uma operação de Red Team.
+
+- 01 // CONTEXTUALIZAÇÃO
+- 02 // INTRODUÇÃO
+- 03 // APRESENTAÇÃO
+- 04 // TIMES DE CYBERSEGURANÇA
+- 05 // RED TEAM
+- 06 // OPERAÇÕES DE RED TEAM
+- 07 // CONCEITO DE C2
+- 08 // CENTRO DE OPERAÇÕES E CONTROLE
+- 09 // IMPORTAÂNCIA DO C2
+- 10 // GESTÃO DE ATIVIDADES
+- 11 // PESSOAS E RESPONSABILIDADES
+- 12 // COMPONENTES COMPUTACIONAIS
+- 13 // ARQUITETURA
+- 14 // GOVERNANÇA
+- 15 // FERRAMENTAS
+- 16 // APT
+- 17 // SÍNTESE
+- ENCERRAMENTO // ATIVIDADES SOB CONTROLE
